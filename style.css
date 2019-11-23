@@ -1,5 +1,77 @@
-background
+#td1{
+  padding:15px;
+}
+#a1{
+  text-decoration: none;
+  color:grey;
+  font-family: Cambria;
+  font-size: 20;
+}
+
+blockquote
 {
-  color:green
-  
+	font-size:20;
+	color:#505050;
+	font-weight:bold;
+}
+#div2{
+	font-size:18;
+	font-family:Georgia;
+	color:#505050;
+}
+#td2,#tr1{
+	padding:0;
+}
+#img1{
+	border-radius:50%;
+}
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   height: 30%;
+   background-color: rgba(0,0,0,0.6);
+   color: white;
+   text-align: center;
+}
+#footerlist{
+	list-style: none;
+}
+.main{
+
+ margin: 2%;
+}
+
+.card{
+     width: 20%;
+     display: inline-block;
+     box-shadow: 2px 2px 20px black;
+     border-radius: 5px;
+     margin: 2%;
+    }
+
+.image img{
+  width: 100%;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+ }
+
+.title{
+
+  text-align: center;
+  padding: 10px;
+
+ }
+
+#heading1{
+  font-size: 20px;
+ }
+
+.des{
+  padding: 3px;
+  text-align: center;
+
+  padding-top: 10px;
+        border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
 }
